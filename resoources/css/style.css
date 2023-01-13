@@ -21,3 +21,7 @@ body{
     color: grey;
     font-size: 21px;
 }
+.footer--class{
+    text-align: right;
+    color: #808080;
+}
